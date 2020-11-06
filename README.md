@@ -1,5 +1,6 @@
-![greet the old blood](https://media.giphy.com/media/xT9IgOwvLOnpYCCwkU/giphy.gif)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgOwvLOnpYCCwkU/giphy.gif" alt="greet the old blood" width="100%" />
+</p>
 
 <!--
 
